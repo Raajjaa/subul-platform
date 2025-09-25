@@ -52,7 +52,7 @@ subul/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/SMARTOVATEAI/subul-platform.git
+git clone https://github.com/Raajjaa/subul-platform.git
 cd subul-platform
 ```
 
